@@ -1,0 +1,22 @@
+- [ ] modeli klasifikacije
+    - [ ] stablo odlucivanja
+    - [ ] algoritmi ansambli
+        - [ ] slucajne sume
+        - [ ] adabust
+        - [ ] logisticka regresija
+    - [ ] validacija prediktivne tacnosti vise algoritama (greska generalizacije-uopstavanja)
+    - [ ] tumacenje vaznosti atributa
+- [ ] analiza asocijativnih pravila nad podacima
+    - [ ] tumacenje rezultata
+        - [ ] podrska
+        - [ ] poverenje
+        - [ ] podizac
+    - [ ] poredjenje sa stablom odlucivanja
+    - [ ] poredjenje sa dijagramom sita
+- [ ] klasterovanje
+    - [ ] K-means
+    - [ ] hijerarhijsko
+    - [ ] DBSCAN
+    - [ ] Kohonen SOM
+    - [ ] tumacenje
+- [ ] analiza glavnih komponenti
