@@ -13,10 +13,10 @@
         - [ ] podizac
     - [ ] poredjenje sa stablom odlucivanja
     - [ ] poredjenje sa dijagramom sita
-- [ ] klasterovanje
-    - [ ] K-means
-    - [ ] hijerarhijsko
-    - [ ] DBSCAN
-    - [ ] Kohonen SOM
-    - [ ] tumacenje
+- [x] klasterovanje
+    - [x] K-means
+    - [x] hijerarhijsko
+    - [x] DBSCAN
+    - [x] Kohonen SOM
+    - [x] tumacenje
 - [x] analiza glavnih komponenti (mozda gotovo??)
