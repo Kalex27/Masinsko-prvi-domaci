@@ -19,4 +19,4 @@
     - [ ] DBSCAN
     - [ ] Kohonen SOM
     - [ ] tumacenje
-- [ ] analiza glavnih komponenti
+- [x] analiza glavnih komponenti (mozda gotovo??)
